@@ -335,7 +335,7 @@ def PDNS_DODE(G, k, pop_size, T_max, cr, pr_threshold, cr_min, cr_max, div):
 
 
 if __name__ == '__main__':
-    data_path = r'E:\python_learning\python_learning\IM_zhang\paper_dataset\blog-int_3982_6803.txt'
+    data_path = "your_edge_list.txt"
     G = read_edge_list(data_path)
     seed_size = 50
     pop_size = 80

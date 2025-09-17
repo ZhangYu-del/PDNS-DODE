@@ -212,7 +212,7 @@ class PDNS_DODE:
 
     # Utility functions (conceptual)
     def get_three_hop_neighbors(self, seed_set):
-        """BFS-based 3-hop neighborhood extraction"""
+        """ 3-hop neighborhood extraction"""
         pass
         
     def edv_fitness(self, seed_set):

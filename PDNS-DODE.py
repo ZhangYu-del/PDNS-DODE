@@ -1,6 +1,6 @@
 """
 PDNS-DODE: A Discrete Hybrid Optimizer for Influence Maximization
-Core Framework Pseudocode 
+Core Framework 
 """
 
 class PDNS_DODE:

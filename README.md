@@ -13,7 +13,4 @@ The core framework of the algorithm is also provided in the PDNS-DODE.py file. C
 6. Usage Instructions & Requirements
 Programming language: Python 3.8+. Dependencies: networkx (graph operations), numpy (numerical computing), scipy (PageRank calculation), matplotlib (result visualization), pandas (data organization).
 
-7. Citations
-If using this project’s code or algorithm, cite as: Zhang, Y., Li, H., Mo, X., Zeng, X., & Na, X. (2025). PDNS-DODE: A Discrete Osprey Optimization and Differential Evolution Algorithm with PageRank Diffusion Neighborhood Search for Influence Maximization in Social Networks. PeerJ (under review). 
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+7. This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
